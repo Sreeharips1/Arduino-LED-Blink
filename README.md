@@ -2,9 +2,7 @@ Arduino LED Blink Program
 --------------------------------------------------------------------------------
 This simple Arduino program blinks an LED connected to pin 13. It toggles the LED between ON and OFF states with a delay of 1 second.
 
-Code
-cpp
-Copy code
+
 int ledPin = 13;
 
 void setup() {
